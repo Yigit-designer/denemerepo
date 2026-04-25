@@ -1,1 +1,0 @@
-push atmadığın sürece commit uzak repoya gitmez gösterim
